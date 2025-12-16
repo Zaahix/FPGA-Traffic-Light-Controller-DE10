@@ -19,6 +19,7 @@ The controller cycles through RED → GREEN → YELLOW states with realistic del
 using a 50 MHz clock. Reset functionality is implemented using a push button.
 
 This project was developed as part of the Digital System Design (DSD) course.
+
 ##Files included
 video demonstration 
 project report PDF 
